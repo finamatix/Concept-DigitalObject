@@ -6,7 +6,7 @@ IF SOMETHING appears [being owned, in disposition or possesed] digitally to a Su
 
 - RDO:
 
-[TBD][ [https://www.evernote.com/shard/s154/sh/d4019005-633b-95dd-b980-2b3edfa6ce4d/XxMYJMnH9rSs8AAmJAQadJRgQEoEllZsZsGNvT3nMBykF3bi4Iz4fVltYA](https://www.evernote.com/shard/s154/nl/17355731/369803e9-1407-a511-beb2-5254b5d9721c?title=FNXIO-(1)%20RMS%5BRDO%5D%20(2)(1)%20DataTypes)](https://www.evernote.com/shard/s154/nl/17355731/369803e9-1407-a511-beb2-5254b5d9721c?title=FNXIO-(1)%20RMS%5BRDO%5D%20(2)(1)%20DataTypes)
+[TBD]
 
 - UI/UX:
 
