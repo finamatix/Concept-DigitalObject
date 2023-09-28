@@ -6,7 +6,7 @@ IF SOMETHING appears [being owned, in disposition or possesed] digitally to a Su
 
 - RDO:
 
-DataTypes: [evernote:///view/17355731/s154/369803e9-1407-a511-beb2-5254b5d9721c/b3d6d954-c2a9-4456-a092-da5a1e2e312b]
+DataTypes: [[evernote:///view/17355731/s154/369803e9-1407-a511-beb2-5254b5d9721c/b3d6d954-c2a9-4456-a092-da5a1e2e312b](https://www.evernote.com/shard/s154/sh/369803e9-1407-a511-beb2-5254b5d9721c/h9M0TqPsmGVX7pcuGbDwYmFQYI92B0VXMTirgfnaGqcaE6Wjx8m50Q04vA)]
 
 - UI/UX:
 
